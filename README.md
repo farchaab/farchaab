@@ -6,7 +6,7 @@
 - :dna: Genomics and metagenomics enthusiast !
 - :hammer_and_wrench: Nextflow and Snakemake pipeline builder !
 - 🥅 2025 Goals: Learn more about rust
-- Eager :swimmer: and :bicyclist:
+- ⚡ Fun fact: Eager :swimmer: and :bicyclist:
 
 ### Languages and Tools:
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />](https://www.linux.org/)
@@ -25,7 +25,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51447](https://github.com/bioconda/bioconda-recipes/pull/51447) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes/)
-<!--END_SECTION:activity-->
+
+
 
 ---
