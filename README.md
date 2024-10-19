@@ -20,8 +20,12 @@
 <br />
 
 
+---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#51447](https://github.com/bioconda/bioconda-recipes/pull/51447) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes/)
 <!--END_SECTION:activity-->
+
+---
