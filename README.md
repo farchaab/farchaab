@@ -2,13 +2,13 @@
 
 ## Passionate Bioinformatician !
 
-- :student: Currently doing a PhD in bioinformatics @metagenlab
+- :student: Currently doing a PhD in bioinformatics [@metagenlab](https://www.chuv.ch/en/microbiologie/imu-home/diagnostics/genomics-and-metagenomics)
 - :dna: Genomics and metagenomics enthusiast !
-- :hammer_and_wrench: Nextflow and Snakemake pipeline builder !
+- 🏗️: Nextflow and Snakemake pipeline builder !
 - 🥅 2025 Goals: Learn more about rust
-- ⚡ Fun fact: Eager :swimmer: and :bicyclist:
+- :star: Fun fact: Eager :swimmer: and :bicyclist:
 
-### Languages and Tools:
+### :toolbox: Languages and Tools:
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />](https://www.linux.org/)
 [<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/manual/)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px" />](https://www.python.org/)
@@ -18,9 +18,6 @@
 [<img align="left" alt="Snakemake" width="26px" src="https://raw.githubusercontent.com/snakemake/snakemake/9504bf49fc0cf1258c9844ddd02d7f1c42eb262b/docs/_static/logo-snake.svg"/>](https://snakemake.github.io/)
 
 <br />
-
-
----
 
 ### :zap: Recent Activity
 
@@ -32,6 +29,5 @@
 5. 🔒 Closed issue [#25](https://github.com/metagenlab/MeSS/issues/25) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
-
-
----
+### :bar_chart: Stats
+[![stats](https://github-readme-stats-red-eight-81.vercel.app/api?username=farchaab&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
