@@ -30,6 +30,10 @@
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
+
 [![stats](https://github-readme-stats-red-eight-81.vercel.app/api?username=farchaab&show_icons=true&theme=transparent\&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-red-eight-81.vercel.app/api/top-langs/?username=farchaab&layout=donut)
+![farchaab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farchaab&theme=transparent&hide_border=true)
+
+![farchaab's Top Languages](https://github-readme-stats-red-eight-81.vercel.app/api/top-langs/?username=farchaab&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+
