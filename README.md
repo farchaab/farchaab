@@ -31,7 +31,7 @@
 
 ### :bar_chart: Stats
 
-![farchaab's Stats](https://github-readme-stats-red-eight-81.vercel.app/api?username=farchaab&theme=transparent&show_icons=true&hide_border=true)
+![farchaab's Stats](https://github-readme-stats-red-eight-81.vercel.app/api?username=farchaab&theme=transparent&show_icons=true&hide_border=true&rank_icon=percentile)
 
 ![farchaab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farchaab&theme=transparent&hide_border=true)
 
