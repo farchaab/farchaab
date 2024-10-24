@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/metagenlab/assembly_finder/pull/23) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-2. 💪 Opened PR [#23](https://github.com/metagenlab/assembly_finder/pull/23) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-3. 🔓 Reopened issue [#25](https://github.com/metagenlab/MeSS/issues/25) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-4. 🗣 Commented on [#25](https://github.com/metagenlab/MeSS/issues/25#issuecomment-2419488136) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-5. 💪 Opened PR [#51449](https://github.com/bioconda/bioconda-recipes/pull/51449) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+1. 🗣 Commented on [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606#issuecomment-2433030237) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+2. ❌ Closed PR [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+3. 🗣 Commented on [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606#issuecomment-2433027960) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+4. 💪 Opened PR [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+5. 🎉 Merged PR [#23](https://github.com/metagenlab/assembly_finder/pull/23) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
