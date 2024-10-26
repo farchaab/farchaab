@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/metagenlab/MeSS/issues/27) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2. 🚀 Published release [v0.8.0](https://github.com/metagenlab/assembly_finder/releases/tag/v0.8.0) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-3. 🗣 Commented on [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606#issuecomment-2433030237) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
-4. ❌ Closed PR [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
-5. 🗣 Commented on [#51606](https://github.com/bioconda/bioconda-recipes/pull/51606#issuecomment-2433027960) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+1. 🔒 Closed issue [#25](https://github.com/metagenlab/MeSS/issues/25) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+2. 🎉 Merged PR [#34](https://github.com/metagenlab/MeSS/pull/34) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3. 💪 Opened PR [#34](https://github.com/metagenlab/MeSS/pull/34) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4. 🗣 Commented on [#32](https://github.com/metagenlab/MeSS/issues/32#issuecomment-2437432601) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+5. 🗣 Commented on [#25](https://github.com/metagenlab/MeSS/issues/25#issuecomment-2437416657) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
