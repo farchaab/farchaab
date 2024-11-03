@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/metagenlab/zAMP/pull/56#issuecomment-2449396266) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-2. 🎉 Merged PR [#33](https://github.com/metagenlab/MeSS/pull/33) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3. 💪 Opened PR [#35](https://github.com/metagenlab/MeSS/pull/35) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-4. 🗣 Commented on [#33](https://github.com/metagenlab/MeSS/pull/33#issuecomment-2444521005) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-5. 🗣 Commented on [#33](https://github.com/metagenlab/MeSS/pull/33#issuecomment-2441316964) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1. 🔒 Closed issue [#32](https://github.com/metagenlab/MeSS/issues/32) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+2. 🔒 Closed issue [#22](https://github.com/metagenlab/MeSS/issues/22) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3. 🎉 Merged PR [#35](https://github.com/metagenlab/MeSS/pull/35) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4. 🗣 Commented on [#56](https://github.com/metagenlab/zAMP/pull/56#issuecomment-2449396266) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+5. 🎉 Merged PR [#33](https://github.com/metagenlab/MeSS/pull/33) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
