@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/metagenlab/zAMP/pull/58) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-2. 💪 Opened PR [#58](https://github.com/metagenlab/zAMP/pull/58) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-3. 💪 Opened PR [#37](https://github.com/metagenlab/MeSS/pull/37) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-4. 🎉 Merged PR [#57](https://github.com/metagenlab/zAMP/pull/57) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-5. 💪 Opened PR [#57](https://github.com/metagenlab/zAMP/pull/57) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+1. ❗ Opened issue [#3202](https://github.com/snakemake/snakemake/issues/3202) in [snakemake/snakemake](https://github.com/snakemake/snakemake)
+2. 🎉 Merged PR [#58](https://github.com/metagenlab/zAMP/pull/58) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+3. 💪 Opened PR [#58](https://github.com/metagenlab/zAMP/pull/58) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+4. 💪 Opened PR [#37](https://github.com/metagenlab/MeSS/pull/37) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+5. 🎉 Merged PR [#57](https://github.com/metagenlab/zAMP/pull/57) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
