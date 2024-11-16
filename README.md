@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61](https://github.com/metagenlab/zAMP/issues/61) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-2. 💪 Opened PR [#52108](https://github.com/bioconda/bioconda-recipes/pull/52108) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
-3. 🎉 Merged PR [#59](https://github.com/metagenlab/zAMP/pull/59) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-4. 💪 Opened PR [#59](https://github.com/metagenlab/zAMP/pull/59) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-5. ❗ Opened issue [#3202](https://github.com/snakemake/snakemake/issues/3202) in [snakemake/snakemake](https://github.com/snakemake/snakemake)
+1. 🗣 Commented on [#52108](https://github.com/bioconda/bioconda-recipes/pull/52108#issuecomment-2478805434) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+2. ❗ Opened issue [#61](https://github.com/metagenlab/zAMP/issues/61) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+3. 💪 Opened PR [#52108](https://github.com/bioconda/bioconda-recipes/pull/52108) in [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+4. 🎉 Merged PR [#59](https://github.com/metagenlab/zAMP/pull/59) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+5. 💪 Opened PR [#59](https://github.com/metagenlab/zAMP/pull/59) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
