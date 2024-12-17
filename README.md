@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/metagenlab/zAMP/pull/68) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-2. 💪 Opened PR [#68](https://github.com/metagenlab/zAMP/pull/68) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-3. 🔒 Closed issue [#61](https://github.com/metagenlab/zAMP/issues/61) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-4. 🎉 Merged PR [#67](https://github.com/metagenlab/zAMP/pull/67) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-5. 💪 Opened PR [#67](https://github.com/metagenlab/zAMP/pull/67) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+1. 🚀 Published release [MeSS paper v1.0](https://github.com/metagenlab/benchmark-MeSS-CAMISIM/releases/tag/v1.0) in [metagenlab/benchmark-MeSS-CAMISIM](https://github.com/metagenlab/benchmark-MeSS-CAMISIM)
+2. 🚀 Published release [v1.0](https://github.com/metagenlab/MeSS-figures/releases/tag/v1.0) in [metagenlab/MeSS-figures](https://github.com/metagenlab/MeSS-figures)
+3. 🎉 Merged PR [#68](https://github.com/metagenlab/zAMP/pull/68) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+4. 💪 Opened PR [#68](https://github.com/metagenlab/zAMP/pull/68) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+5. 🔒 Closed issue [#61](https://github.com/metagenlab/zAMP/issues/61) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
