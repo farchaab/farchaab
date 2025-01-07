@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/metagenlab/assembly_finder/pull/25) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-2. 🎉 Merged PR [#26](https://github.com/metagenlab/assembly_finder/pull/26) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-3. 💪 Opened PR [#26](https://github.com/metagenlab/assembly_finder/pull/26) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-4. 🚀 Published release [MeSS paper v1.0](https://github.com/metagenlab/benchmark-MeSS-CAMISIM/releases/tag/v1.0) in [metagenlab/benchmark-MeSS-CAMISIM](https://github.com/metagenlab/benchmark-MeSS-CAMISIM)
-5. 🚀 Published release [v1.0](https://github.com/metagenlab/MeSS-figures/releases/tag/v1.0) in [metagenlab/MeSS-figures](https://github.com/metagenlab/MeSS-figures)
+1. 🎉 Merged PR [#5](https://github.com/metagenlab/zAMPExplorer/pull/5) in [metagenlab/zAMPExplorer](https://github.com/metagenlab/zAMPExplorer)
+2. 💪 Opened PR [#5](https://github.com/metagenlab/zAMPExplorer/pull/5) in [metagenlab/zAMPExplorer](https://github.com/metagenlab/zAMPExplorer)
+3. ❌ Closed PR [#25](https://github.com/metagenlab/assembly_finder/pull/25) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
+4. 🎉 Merged PR [#26](https://github.com/metagenlab/assembly_finder/pull/26) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
+5. 💪 Opened PR [#26](https://github.com/metagenlab/assembly_finder/pull/26) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
