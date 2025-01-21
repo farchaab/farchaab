@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/metagenlab/MeSS/pull/38) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2. 💪 Opened PR [#38](https://github.com/metagenlab/MeSS/pull/38) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3. 🎉 Merged PR [#27](https://github.com/metagenlab/assembly_finder/pull/27) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-4. 💪 Opened PR [#27](https://github.com/metagenlab/assembly_finder/pull/27) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
-5. 🎉 Merged PR [#5](https://github.com/metagenlab/zAMPExplorer/pull/5) in [metagenlab/zAMPExplorer](https://github.com/metagenlab/zAMPExplorer)
+1. 🎉 Merged PR [#28](https://github.com/metagenlab/assembly_finder/pull/28) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
+2. 🎉 Merged PR [#38](https://github.com/metagenlab/MeSS/pull/38) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3. 💪 Opened PR [#38](https://github.com/metagenlab/MeSS/pull/38) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4. 🎉 Merged PR [#27](https://github.com/metagenlab/assembly_finder/pull/27) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
+5. 💪 Opened PR [#27](https://github.com/metagenlab/assembly_finder/pull/27) in [metagenlab/assembly_finder](https://github.com/metagenlab/assembly_finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
