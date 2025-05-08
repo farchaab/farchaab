@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#40](https://github.com/metagenlab/MeSS/issues/40) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2. 🔒 Closed issue [#41](https://github.com/metagenlab/MeSS/issues/41) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3. 🎉 Merged PR [#46](https://github.com/metagenlab/MeSS/pull/46) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-4. 💪 Opened PR [#46](https://github.com/metagenlab/MeSS/pull/46) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-5. 🗣 Commented on [#45](https://github.com/metagenlab/MeSS/issues/45#issuecomment-2844972964) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1. 🔒 Closed issue [#14](https://github.com/metagenlab/MeSS/issues/14) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+2. 🚀 Published release [v0.11.0](https://github.com/metagenlab/MeSS/releases/tag/v0.11.0) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3. 🔒 Closed issue [#40](https://github.com/metagenlab/MeSS/issues/40) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4. 🔒 Closed issue [#41](https://github.com/metagenlab/MeSS/issues/41) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+5. 🎉 Merged PR [#46](https://github.com/metagenlab/MeSS/pull/46) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
