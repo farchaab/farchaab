@@ -22,9 +22,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64](https://github.com/metagenlab/MeSS/issues/64) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2. ❗ Opened issue [#63](https://github.com/metagenlab/MeSS/issues/63) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3. 🎉 Merged PR [#62](https://github.com/metagenlab/MeSS/pull/62) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1. 🚀 Published release [v2.0.0](https://github.com/metagenlab/zAMP/releases/tag/v2.0.0) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+2. 🎉 Merged PR [#77](https://github.com/metagenlab/zAMP/pull/77) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+3. 💪 Opened PR [#77](https://github.com/metagenlab/zAMP/pull/77) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
 4. 💪 Opened PR [#62](https://github.com/metagenlab/MeSS/pull/62) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 5. 🎉 Merged PR [#61](https://github.com/metagenlab/MeSS/pull/61) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
