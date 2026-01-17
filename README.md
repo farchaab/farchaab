@@ -22,10 +22,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/metagenlab/zAMP/releases/tag/v2.0.0) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-2. 💪 Opened PR [#77](undefined) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-3. 💪 Opened PR [#77](https://github.com/metagenlab/zAMP/pull/77) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
-4. 💪 Opened PR [#62](https://github.com/metagenlab/MeSS/pull/62) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1. 🗣 Commented on [#39](https://github.com/metagenlab/zshoman/issues/39#issuecomment-3759174458) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+2.  Labeled issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+3. ❗ Opened issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+4.  Assigned issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
 5. 🎉 Merged PR [#61](https://github.com/metagenlab/MeSS/pull/61) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
