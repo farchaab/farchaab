@@ -5,8 +5,8 @@
 - :student: Currently doing a PhD in bioinformatics [@metagenlab](https://www.chuv.ch/en/microbiologie/imu-home/diagnostics/genomics-and-metagenomics)
 - :dna: Genomics and metagenomics enthusiast !
 - 🏗️: Nextflow and Snakemake pipeline builder !
-- 🥅 2025 Goals: Learn more about rust
-- :star: Fun fact: Eager :swimmer: and :bicyclist:
+- 🥅 2026 Goals: Learn rust fundamentals
+- Avid :swimmer: and :bicyclist:
 
 ### :toolbox: Languages and Tools:
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
