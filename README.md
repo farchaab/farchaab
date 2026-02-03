@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-2. 💪 Opened PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-3. 🗣 Commented on [#39](https://github.com/metagenlab/zshoman/issues/39#issuecomment-3759174458) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-4.  Labeled issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-5. ❗ Opened issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+1. ❌ Merged PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+2. ❌ Labeled PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+3. 💪 Opened PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+4. 🗣 Commented on [#39](https://github.com/metagenlab/zshoman/issues/39#issuecomment-3759174458) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+5.  Labeled issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
