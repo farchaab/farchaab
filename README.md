@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#46](https://github.com/metagenlab/zshoman/issues/46) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-2.  Labeled issue [#46](https://github.com/metagenlab/zshoman/issues/46) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-3. ❗ Opened issue [#46](https://github.com/metagenlab/zshoman/issues/46) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-4. ❌ Merged PR [#40](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-5.  Labeled issue [#39](https://github.com/metagenlab/zshoman/issues/39) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+1. 🗣 Commented on [#66](https://github.com/metagenlab/MeSS/issues/66#issuecomment-4028955220) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+2.  Labeled issue [#44](https://github.com/metagenlab/MeSS/issues/44) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+5.  Assigned issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
