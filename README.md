@@ -22,11 +22,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/metagenlab/MeSS/issues/66#issuecomment-4028955220) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2.  Labeled issue [#44](https://github.com/metagenlab/MeSS/issues/44) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-4.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-5.  Assigned issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1.  Labeled issue [#79](https://github.com/metagenlab/zAMP/issues/79) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+2. ❗ Opened issue [#79](https://github.com/metagenlab/zAMP/issues/79) in [metagenlab/zAMP](https://github.com/metagenlab/zAMP)
+3. 🗣 Commented on [#66](https://github.com/metagenlab/MeSS/issues/66#issuecomment-4028955220) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4.  Labeled issue [#44](https://github.com/metagenlab/MeSS/issues/44) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+5.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Stats
