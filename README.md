@@ -22,10 +22,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-2.  Assigned issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
-3. 🚀 Published release [zAMP paper v1.0](https://github.com/metagenlab/benchmark-zamp/releases/tag/v1.0) in [metagenlab/benchmark-zamp](https://github.com/metagenlab/benchmark-zamp)
-4.  Labeled issue [#44](https://github.com/metagenlab/MeSS/issues/44) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1. 💪 Opened PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+2.  Labeled issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+3.  Assigned issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+4. 🚀 Published release [zAMP paper v1.0](https://github.com/metagenlab/benchmark-zamp/releases/tag/v1.0) in [metagenlab/benchmark-zamp](https://github.com/metagenlab/benchmark-zamp)
 5.  Labeled issue [#66](https://github.com/metagenlab/MeSS/issues/66) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
