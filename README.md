@@ -22,10 +22,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-2. ❌ Assigned PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-3. 💪 Opened PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
-4.  Labeled issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
+1.  Labeled issue [#64](https://github.com/metagenlab/zshoman/issues/64) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+2. ❗ Opened issue [#64](https://github.com/metagenlab/zshoman/issues/64) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+3. ❌ Labeled PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
+4. ❌ Assigned PR [#59](undefined) in [metagenlab/zshoman](https://github.com/metagenlab/zshoman)
 5.  Assigned issue [#67](https://github.com/metagenlab/MeSS/issues/67) in [metagenlab/MeSS](https://github.com/metagenlab/MeSS)
 <!--END_SECTION:activity-->
 
